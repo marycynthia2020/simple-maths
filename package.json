@@ -1,7 +1,7 @@
 {
-  "name": "simple-maths",
+  "name": "@marycynthia2020/simple-maths",
   "version": "1.0.0",
-  "description": "This is a package for performing dimple mathematical operations",
+  "description": "This is a package for performing simple mathematical operations",
   "keywords": [
     "maths",
     "simple",

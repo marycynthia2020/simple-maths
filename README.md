@@ -7,7 +7,7 @@ An easy-to-use JavaScript package for basic mathematical operations.
 You can install this package using npm:
 
 ```
-npm install simple-maths
+npm install @marycynthia2020/simple-maths
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ This package contains four simple math functions: add, subtract, multiply, and d
 
 ## Example 
 ```
-const math = require('simple-maths')
+const math = require("@marycynthia2020/simple-maths")
 ```
 
 ```
