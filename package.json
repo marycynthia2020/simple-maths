@@ -1,0 +1,30 @@
+{
+  "name": "simple-maths",
+  "version": "1.0.0",
+  "description": "This is a package for performing dimple mathematical operations",
+  "keywords": [
+    "maths",
+    "simple",
+    "arithemetic",
+    "perform",
+    "evaluate",
+    "solve",
+    "math",
+    "basic"
+  ],
+  "homepage": "https://github.com/marycynthia2020/simple-maths#readme",
+  "bugs": {
+    "url": "https://github.com/marycynthia2020/simple-maths/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marycynthia2020/simple-maths.git"
+  },
+  "license": "ISC",
+  "author": "Chinemerem Ugbaja",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
